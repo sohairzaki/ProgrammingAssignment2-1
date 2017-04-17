@@ -1,6 +1,14 @@
-
+#setting my work directory
 
 setwd("/DataScienceCourse_Coursera/RProgramming_Course_Course2/RProgramming_Course2_Week3")
+#set the value of the matrix
+
+#get the value of the matrix
+
+#set the value of the inverse
+
+#get the value of the inverse
+
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
     set <- function(y) {
